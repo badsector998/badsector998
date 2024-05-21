@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6631db977f61be5eb4f679a6?variant=dark)](https://roadmap.sh)
+[[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6631db977f61be5eb4f679a6?variant=dark)](https://roadmap.sh)](https://roadmap.sh/card/tall/6631db977f61be5eb4f679a6?variant=light&roadmaps=datastructures-and-algorithms%2Cgolang%2Cbackend)
 <!--
 **badsector998/badsector998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
