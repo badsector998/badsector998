@@ -17,7 +17,6 @@
 	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/></code>
 	<code><img width="40" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/da88f2b3-e533-49f5-89a7-f266abf1e2fe" alt="Mosquitto" title="Mosquitto"/></code>
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/6631db977f61be5eb4f679a6?variant=light&roadmaps=datastructures-and-algorithms%2Cgolang%2Cbackend" alt="roadmap.sh"/></a>
 </div>
 <!--
 **badsector998/badsector998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
