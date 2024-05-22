@@ -1,4 +1,3 @@
-### Not an extrovert, not an introvert, but I'm a PERV......
 <div align="center">
 	<img width="25" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
 	<img width="25" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
@@ -22,6 +21,10 @@
 - 🌱 I’m currently learning back-end development and embedded systems especially RTOS related
 - 👯 I’m looking to collaborate on projects written in Go or any embedded system projects
 - 🤔 I’m looking for help with open source projects
+
+<div align="center">
+	<a href="https://imgflip.com/i/8qun4c"><img src="https://i.imgflip.com/8qun4c.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
+</div>
 <!--
 **badsector998/badsector998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
