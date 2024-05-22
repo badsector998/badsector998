@@ -1,3 +1,4 @@
+### Magitek Engineer working alongside Cid Nan Garlond
 <div align="center">
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
@@ -20,7 +21,7 @@
 
 - 🌱 I’m currently learning back-end development and embedded systems especially RTOS related
 - 👯 I’m looking to collaborate on projects written in Go or any embedded system projects
-- 🤔 I’m looking for help with open source projects
+- 🤔 I’m looking for help with looking for open source projects
 
 <div align="center">
 	<a href="https://imgflip.com/i/8qur1s"><img src="https://i.imgflip.com/8qur1s.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
