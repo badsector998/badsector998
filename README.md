@@ -21,10 +21,6 @@
 - 🌱 I’m currently learning back-end development and embedded systems especially RTOS related
 - 👯 I’m looking to collaborate on projects written in Go or any embedded system projects
 - 🤔 I’m looking for help with open source projects
-
-<div align="center">
-	<a href="https://imgflip.com/i/8qun4c"><img src="https://i.imgflip.com/8qun4c.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
-</div>
 <!--
 **badsector998/badsector998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
