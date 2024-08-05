@@ -16,7 +16,6 @@
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/>
 	<img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
 	<img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/>
-	<img width="35" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/da88f2b3-e533-49f5-89a7-f266abf1e2fe" alt="Mosquitto" title="Mosquitto"/>
 </div>
 
 - 🌱 I’m currently learning back-end development and embedded systems especially RTOS related
