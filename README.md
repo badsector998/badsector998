@@ -20,10 +20,7 @@
 
 - 🌱 I’m currently learning back-end development and embedded systems especially RTOS related
 - 👯 I’m looking to collaborate on projects written in Go or any embedded system projects
-
-<div align="center">
-	<a href="https://imgflip.com/i/8qur1s"><img src="https://i.imgflip.com/8qur1s.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
-</div>
+- 📫 How to reach me: aprilito.ik@outlook.com
 <!--
 **badsector998/badsector998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
