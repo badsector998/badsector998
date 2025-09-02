@@ -1,4 +1,5 @@
-### Magitek Engineer working alongside Cid Nan Garlond
+### Backend IoT Engineer
+#### Always up for challenges in IoT, Backend and Server domain
 <div align="center">
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
 	<img width="35" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
@@ -18,8 +19,6 @@
 	<img width="35" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/>
 </div>
 
-- 🌱 I’m currently learning back-end development and embedded systems especially RTOS related
-- 👯 I’m looking to collaborate on projects written in Go or any embedded system projects
 - 📫 How to reach me: aprilito.ik@outlook.com
 <!--
 **badsector998/badsector998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
